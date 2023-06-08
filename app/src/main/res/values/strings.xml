@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alumnos App</string>
+    <string name="lblTitulo">Programacion Movil 1</string>
+    <string name="btnSaludar">Saludar</string>
+    <string name="edtNombre">Ingresa su nombre</string>
+    <string name="mensajeErrorNombre">Favor ingresar el nombre</string>
+    <string name="mensajeBienvenida">Bienvenido, %1$!</string>
+    <string name="imgContentDescription">Mano saludando</string>
+</resources>
